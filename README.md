@@ -1,38 +1,41 @@
-# DIU22
-Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
+# DIU21
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
-Updated: 11/2/2022
+Grupo: DIU2_ML.  Curso: 2021/21 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Carlota Braun
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Hostel que se encuentra en el centro de Granada y que está orientado sobre toda a los jóvenes, y que además cuenta con una zona de restauración con conciertos y espectáculos ciertos días.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * Manuel Contreras Orge 
+ * Luis Ortega Palacios
+
+La práctica se puede consultar en https://github.com/manuelcoor66/DIU-Practicas.
+
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Persona.png) 1.a Análisis competitivo
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+A la hora de comparar nuestro hostel hemos decidido usar The Hat Madrid y The Lights Hostel Malaga, debido a que el primero de ellos (The Hat) cuenta con una página web que es mejor que aquella con la que la vamos a comparar, mientras que la segunda (The Lights Hostel) tiene una página peor.
+
+**Página Web The Hat Madrid: https://apps.apple.com/es/app/gu%C3%ADa-bienvenidos-a-madrid/id632497903**
+
+**Página Web The Lights Hostel Málaga: https://www.esmadrid.com/app-paseo-arte-imprescindible**
+
+El resultado de la comparación entre estos 3 hostel se ve en la siguiente tabla.
+
+<img src="https://github.com/manuelcoor66/DIU-Practicas/blob/main/P1/Competitor%20Analysis.png?raw=true">
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
