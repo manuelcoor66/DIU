@@ -37,30 +37,67 @@ A la hora de comparar nuestro hostel hemos decidido usar The Hat Madrid y The Li
 
 El resultado de la comparación entre estos 3 hostel se ve en la siguiente tabla.
 
-<img src="https://github.com/manuelcoor66/DIU-Practicas/blob/main/P1/Competitor%20Analysis.png?raw=true">
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Competitor%20Analysis.png?raw=true">
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+### Persona 1 (Matías)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos escogido esta persona porque encaja en la idea general de quien podría ser un
+visitante al uso de un hostel. Alguien sociable, que le va la marcha y que tiene un incentivo para venir aquí más allá de pasarlo bien, y al mismo tiempo confía más en las
+recomendaciones online que en la publicidad tradicional por lo que puede ser un buen
+sujeto para el Journey Map.
+
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Journey%20Map%201.jpeg?raw=true">
+
+### Persona 2 (María)
+
+La elección de esta persona como usuaria de un hostel es que es una persona con un
+carácter que se encuentra entre extrovertida e introvertida, pero que le gustaría mejorar ser un poco más extrovertida, por lo que ambientes como los de sitios así le ayudan mucho a la hora de poder conseguirlo. Además, al ser una persona bastante práctica, es la persona perfecta para elegir un hostel dentro de las distintas posibilidades existentes para ella, ya que es el que tiene las mejores características para lo que ella se puede permitir.
+
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Persona%20Ficticia%202.jpeg?raw=true">
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+### Persona 1 (Matías)
 
+Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría,
+es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas
+reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo
+una persona sociable le preocupa caerle bien a la gente.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Persona%20Ficticia%201.jpeg?raw=true">
+
+### Persona 2 (María)
+
+Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría, es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo una persona sociable le preocupa caerle bien a la gente.
+
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Journey%20Map%202.png?raw=true">
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Este diagrama se observa en este [documento][enlace] adjunto.
+
+[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P1/Usability_Review.pdf
+
+A pesar de que la página no es perfecta, se hace un muy buen trabajo con lo que tiene,
+pudiendo mejorarse lo cargado que está la página principal, ya que la encontramos
+demasiada cargada, pudiendo accederse sólo a cierta parte de la información mediante el
+menú principal, mientras que la mayoría de información se encuentra en la página principal,
+lo que puede llegar a confundir un poco, por lo que se recomienda dividir la información en
+distintas páginas en las que solo se encuentra información relacionada con esta parte. La
+claridad visual es excelente, ya que se destacan las partes más importantes de la página
+con un color llamativo y/o una letra de mayor tamaño. Sin embargo, vemos pobre la parte
+de la ayuda al usuario, ya que existe una sección de FAQ que es muy fácil que se pueda
+pasar por alto por parte del usuario.
+Por último, al analizar esta página web, llegamos a la conclusión de que se ha hecho un
+buen trabajo al realizarla, pero que existen algunas partes mejorables que harían que esta
+fuera excelente.
 
 ## Paso 2. UX Design  
-
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
