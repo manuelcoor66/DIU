@@ -217,14 +217,14 @@ caso de que no se seleccione ninguno se mostrará el próximo evento.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+En la imagen [Diseño Visual.png][enlace] se puede observar con más claridad esta imagen.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P3/Diseño%20Visual.png
+
+<img src="P3/Diseño Visual.png">
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -236,8 +236,51 @@ caso de que no se seleccione ninguno se mostrará el próximo evento.
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Patrones
+
+Los patrones los hemos sacado de la pagina https://ui-patterns.com/.
+
+Calendario de Eventos: 
+
+Este patrón, que se utiliza para navegar entre eventos que ocurren en un espacio de tiempo cercano, se va a usar en la parte inferior de la página de Comida y ocio, exactamente para que el usuario pueda ver y navegar entre los distintos eventos que oferta el restaurante/bar del hostel.
+
+Carrusel: 
+
+Patrón que se usa cuando se quieren mostrar varias imágenes relacionadas entre sí en un espacio muy pequeño, por lo que se tienen que mostrar una a una, en nuestro caso se usa para mostrar las imágenes de las 3 salas de las que se componen las instalaciones del bar/restaurante del hostel, como se puede observar en el boceto hecho al final de la práctica 2.
+
+Navegación por pestañas: 
+
+Patron que se usa cuando hay mucha información que hay que dividirla en varias páginas, para poder acceder a ella con comodidad se usa las pestañas de navegación situadas justo debajo del título.
+
+Boton home: 
+
+Este patrón da al usuario acceso rápido y cómodo a la pagina principal de la web. para ello solamente tiene que pulsar el logo situado al extremo izquierdo de las pestañas de navegación. 
+
+### Guideline
+
+Paleta de colores: 
+
+Hemos mantenido la paleta de colores de la página original porque creemos que es la más representativa de la esencia y personalidad del local, cosa que queremos mantener añadiendo mejoras para que sea más atractivo para el público en general.
+
+Tipografía: 
+
+Hemos elegido [Inknut Antiqua][enlace1] para los títulos y [Caveat][enlace2] para el texto porque tienen el balance de parecerse a las fuentes de la página original (de la página oficial del Carlota Braun) y al mismo tiempo ser más legibles que la tipografía original y mantiene su personalidad.
+
+[enlace1]: https://www.fontpair.co/fonts/inknutantiqua
+
+[enlace2]: https://www.fontpair.co/fonts/caveat
+
+### Logotipo
+
+Hemos rediseñado el logotipo de la página del hostel, orientándose a la zona de dicho hostel en la que nos hemos centrado, es decir, a la zona de restauración. Para ello hemos hecho un logotipo base, sin fondo, del cuál salen los dos que vamos a usar, siendo la única diferencia entre ambos el color del fondo de dicho logotipo.
+
+<img src="P3/logotipo sin fondo.png">
+<img src="P3/logotipo fondo claro.png">
+<img src="P3/logotipo fondo oscuro.png">
+
+### Iconografía
+
+Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de uso libre y tienen un diseño y estilo que creemos que encaja muy bien con el estilo y la personalidad que le queremos dar a la web
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
