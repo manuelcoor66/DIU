@@ -287,9 +287,8 @@ Logotipo fondo oscuro
 
 Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de uso libre y tienen un diseño y estilo que creemos que encaja muy bien con el estilo y la personalidad que le queremos dar a la web. Entre estos iconos encontramos los siguientes, los de calendario, carta, o volver; que se pueden observar a continuación.
 
-<img src="P3/Icono Calendario.jpeg">
-<img src="P3/Icono Carta.jpeg">
-<img src="P3/Icono Volver.jpeg">
+<img src="P3/Icono Calendario.jpeg"> <img src="P3/Icono Carta.jpeg"> <img src="P3/Icono Volver.jpeg">
+
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
