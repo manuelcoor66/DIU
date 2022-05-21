@@ -103,47 +103,109 @@ fuera excelente.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+En este apartado hemosrealizado las 3 opciones disponibles, (malla receptora, mapa de empatía y POV), aunque solo es necesario observar una de las 3 opciones.
+
+### Malla receptora de información
+#### Interesante/relevante:
+-Se puede contactar fácilmente a partir de whatsapp.
+-La página es fácilmente navegable.
+-Se puede acceder a reserva directamente.
+-Te explica claramente todas las actividades que se ofertan.
+-Se observan las partes más importantes de manera clara.
+
+#### Críticas Constructivas:
+-No hay ofertas que podrían hacer el hostel más accesible.
+-Las reviews del hostel solo las pueden poner los dueños del hostel lo cual hace que
+alguien pueda sospechar que han sido escogidas a dedo para dar buena imagen.
+
+#### Preguntas a partir de la experiencia:
+-¿Dónde están las ofertas?
+-¿Por qué hay información sobre el hostel fuera de la zona principal?
+
+#### Nuevas ideas:
+-Poner los lugares de fiesta cercanos.
+-La página principal está cargada, lo podrían dividir en distintas pestañas .
+-Poner redes sociales.
+
+### Mapa de empatía
+
+#### Persona 1 (Matías)
+
 <img src="P2/Mapa de Empatía 1.png">
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+#### Persona 1 (María)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+<img src="P2/Mapa de Empatía 2.png">
 
+### POV
+
+<img src="P2/POV.png">
+
+El USUARIO
+
+NECESITA
+
+-Reservar en el hostel
+
+-Información de los lugares cercanos al hostel
+
+-Cancelar la reserva
+
+PORQUE
+
+-Quiere pasar un fin de semana en Granada
+
+-Le facilita el trabajo para organizar su viaje
+
+-Puede que los planes fallen
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+Nuestra propuesta para mejorar el servicio ofrecido por el hostel Carlota Braun es añadirle
+un servicio de karaoke por las noches, después de que acaben las actuaciones, que son muy comunes a la hora de cenar. Este servicio está ofrecido a aquellas personas que se encuentran en el bar y que se lo quieran pasar bien de una manera diferente a lo común en sitios como estos.
+
+<img src="P2/Propuesta de valor.png">
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+<img src="P2/Análisis de tareas.png">
+
+Hemos escogido la matriz de tareas/usuarios por delante del user/task flow debido a que
+esta primera es una opción mucho más fácil de observar e intuitiva que la otra, ya que con
+un solo vistazo se puede ver claramente la información más importante que se encuentra en
+esta opción, mientras que la otra es mucho más compleja y difícil de entender.
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+#### Mapa de sitio
 
->>> Identificar términos para diálogo con usuario  
+<img src="P2/Site map.png">
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Comida y ocio sucede en un mismo restaurante con un escenario pero los eventos la página los tiene separados en una pestaña aparte, no lo vemos apropiado y creemos que sería más coherente juntarlo.
+
+#### Etiquetado
+
+<img src="P2/Etiquetado.png">
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+<img src="P2/boceto.png">
+
+El boceto es básico pero ofrece una idea de lo que queremos hacer. Se mantendrán los
+colores de la página original, y en el calendario, cuando se pasa el cursor por encima de un
+evento, se mostrará a la derecha, tal y como se enseña en el boceto todos los datos de
+dicho evento (tales como nombre, fecha, breve descripción e imágenes relacionadas), en el
+caso de que no se seleccione ninguno se mostrará el próximo evento.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
