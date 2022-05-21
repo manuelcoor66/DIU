@@ -107,24 +107,31 @@ En este apartado hemosrealizado las 3 opciones disponibles, (malla receptora, ma
 
 ### Malla receptora de información
 #### Interesante/relevante:
--Se puede contactar fácilmente a partir de whatsapp.
+-Se puede contactar fácilmente a partir de Whatsapp.
+
 -La página es fácilmente navegable.
+
 -Se puede acceder a reserva directamente.
+
 -Te explica claramente todas las actividades que se ofertan.
+
 -Se observan las partes más importantes de manera clara.
 
 #### Críticas Constructivas:
 -No hay ofertas que podrían hacer el hostel más accesible.
--Las reviews del hostel solo las pueden poner los dueños del hostel lo cual hace que
-alguien pueda sospechar que han sido escogidas a dedo para dar buena imagen.
+
+-Las reviews del hostel solo las pueden poner los dueños del hostel lo cual hace que alguien pueda sospechar que han sido escogidas a dedo para dar buena imagen.
 
 #### Preguntas a partir de la experiencia:
 -¿Dónde están las ofertas?
+
 -¿Por qué hay información sobre el hostel fuera de la zona principal?
 
 #### Nuevas ideas:
 -Poner los lugares de fiesta cercanos.
--La página principal está cargada, lo podrían dividir en distintas pestañas .
+
+-La página principal está cargada, lo podrían dividir en distintas pestañas.
+
 -Poner redes sociales.
 
 ### Mapa de empatía
@@ -139,7 +146,7 @@ alguien pueda sospechar que han sido escogidas a dedo para dar buena imagen.
 
 ### POV
 
-<img src="P2/POV.png">
+<img src="P2/Point Of View.png">
 
 El USUARIO
 
