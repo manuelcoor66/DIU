@@ -103,7 +103,7 @@ fuera excelente.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
+<img src="P2/Mapa de Empatía 1.png">
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
