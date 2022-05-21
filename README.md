@@ -49,7 +49,7 @@ visitante al uso de un hostel. Alguien sociable, que le va la marcha y que tiene
 recomendaciones online que en la publicidad tradicional por lo que puede ser un buen
 sujeto para el Journey Map.
 
-<img src="P1/Journey Map 1.jpeg">
+<img src="P1/Persona Ficticia 1.jpeg">
 
 ### Persona 2 (María)
 
