@@ -206,7 +206,7 @@ Comida y ocio sucede en un mismo restaurante con un escenario pero los eventos l
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-<img src="P2/boceto.jpeg">
+<img src="P2/Boceto.jpeg">
 
 El boceto es básico pero ofrece una idea de lo que queremos hacer. Se mantendrán los
 colores de la página original, y en el calendario, cuando se pasa el cursor por encima de un
