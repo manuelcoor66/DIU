@@ -68,13 +68,13 @@ es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan
 reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo
 una persona sociable le preocupa caerle bien a la gente.
 
-<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Persona%20Ficticia%201.jpeg?raw=true">
+<img src="P1/Journey Map 1.jpeg">
 
 ### Persona 2 (María)
 
 Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría, es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo una persona sociable le preocupa caerle bien a la gente.
 
-<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Journey%20Map%202.png?raw=true">
+<img src="P1/Journey Map 2.jpeg">
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -82,7 +82,7 @@ Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona fictici
 
 Este diagrama se observa en este [documento][enlace] adjunto.
 
-[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P1/Usability_Review.pdf
+[enlace]: P1/Usability_Review.pdf
 
 A pesar de que la página no es perfecta, se hace un muy buen trabajo con lo que tiene,
 pudiendo mejorarse lo cargado que está la página principal, ya que la encontramos
