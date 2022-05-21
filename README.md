@@ -78,6 +78,7 @@ Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona fictici
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
 
 Este diagrama se observa en este [documento][enlace] adjunto.
 
