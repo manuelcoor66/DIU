@@ -274,9 +274,9 @@ Hemos elegido [Inknut Antiqua][enlace1] para los títulos y [Caveat][enlace2] pa
 
 Hemos rediseñado el logotipo de la página del hostel, orientándose a la zona de dicho hostel en la que nos hemos centrado, es decir, a la zona de restauración. Para ello hemos hecho un logotipo base, sin fondo, del cuál salen los dos que vamos a usar, siendo la única diferencia entre ambos el color del fondo de dicho logotipo.
 
-<img src="P3/Logotipo sin fondo.jpeg">
-<img src="P3/Logotipo fondo claro.jpeg">
-<img src="P3/Logotipo fondo oscuro.jpeg">
+<img src="P3/Logotipo sin fondo.jpeg"> Logotipo sin fondo
+<img src="P3/Logotipo fondo claro.jpeg"> Logotipo fondo claro
+<img src="P3/Logotipo fondo oscuro.jpeg"> Logotipo fondo oscuro
 
 ### Iconografía
 
