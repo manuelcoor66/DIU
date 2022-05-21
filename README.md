@@ -288,9 +288,9 @@ Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de u
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-El Layout Hi-Fi se peude descargar para su observación en el siguiente [documento][enlace].
+El Layout Hi-Fi se peude descargar para su observación en el siguiente [documento][Layout].
 
-[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P3/Layout%20Hi-Fi.pie
+[Layout]: https://github.com/manuelcoor66/DIU/blob/master/P3/Layout%20Hi-Fi.pie
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
