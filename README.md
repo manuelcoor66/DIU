@@ -37,7 +37,7 @@ A la hora de comparar nuestro hostel hemos decidido usar The Hat Madrid y The Li
 
 El resultado de la comparación entre estos 3 hostel se ve en la siguiente tabla.
 
-<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Competitor%20Analysis.png?raw=true">
+<img src="P1/Competitor Analysis.png">
 
 
 ![Método UX](img/Persona.png) 1.b Persona
