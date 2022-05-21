@@ -74,7 +74,7 @@ una persona sociable le preocupa caerle bien a la gente.
 
 Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría, es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo una persona sociable le preocupa caerle bien a la gente.
 
-<img src="P1/Journey Map 2.jpeg">
+<img src="P1/Journey Map 2.png">
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
